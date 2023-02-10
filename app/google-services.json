@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608854423067",
+    "project_id": "tap-booster-5a960",
+    "storage_bucket": "tap-booster-5a960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608854423067:android:01a4f281d295fae607aabe",
+        "android_client_info": {
+          "package_name": "com.cleaner.rambooster.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608854423067-kgcpbkdcfgk0n2tka73h5vvei7opqnha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZP-YAx3H2xvdtkb663d3OK66HOyxWHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608854423067-kgcpbkdcfgk0n2tka73h5vvei7opqnha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

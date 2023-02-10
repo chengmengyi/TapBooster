@@ -9,12 +9,12 @@ import org.json.JSONObject
 object OnlineConf {
 
     fun readOnlineConf(){
-//        val remoteConfig = Firebase.remoteConfig
-//        remoteConfig.fetchAndActivate().addOnCompleteListener {
-//            if (it.isSuccessful){
-//                parseAdJson(remoteConfig.getString("tapo_avd"))
-//            }
-//        }
+        val remoteConfig = Firebase.remoteConfig
+        remoteConfig.fetchAndActivate().addOnCompleteListener {
+            if (it.isSuccessful){
+                parseAdJson(remoteConfig.getString("tapo_avd"))
+            }
+        }
     }
 
     private fun parseAdJson(json:String){

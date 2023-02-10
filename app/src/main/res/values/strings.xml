@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Tap Booster</string>
-    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_id">ca-app-pub-6337191878285963~5531680629</string>
+    <string name="facebook_app_id" translatable="false">512997257614373</string>
 </resources>

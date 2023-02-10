@@ -58,7 +58,7 @@ class HomeActivity:BaseActivity(R.layout.activity_home) {
         }
         llc_contact.setOnClickListener { contact() }
         llc_update.setOnClickListener { update() }
-        llc_contact.setOnClickListener {
+        llc_agree.setOnClickListener {
             startActivity(Intent(this,UrlActivity::class.java).apply {
                 putExtra("url",LocalConf.agree)
             })
