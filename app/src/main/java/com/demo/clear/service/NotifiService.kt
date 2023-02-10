@@ -17,6 +17,7 @@ import androidx.core.app.NotificationManagerCompat
 import com.demo.clear.R
 import com.demo.clear.activity.HomeActivity
 import com.demo.clear.activity.MainActivity
+import com.demo.clear.util.RegisterAc
 import kotlin.random.Random
 
 

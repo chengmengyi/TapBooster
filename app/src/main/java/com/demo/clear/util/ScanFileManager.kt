@@ -2,6 +2,7 @@ package com.demo.clear.util
 
 import android.content.pm.PackageManager
 import android.os.Environment
+import android.util.Log
 import com.demo.clear.R
 import com.demo.clear.bean.CleanBean
 import com.demo.clear.myApp
@@ -14,6 +15,7 @@ import java.util.*
 import kotlin.collections.ArrayList
 
 class ScanFileManager {
+    private var stop=false
     private var scanJob:Job?=null
     private val filters = ArrayList<String>()
 

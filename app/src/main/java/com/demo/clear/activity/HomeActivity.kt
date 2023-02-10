@@ -19,6 +19,7 @@ import com.hjq.permissions.XXPermissions
 import kotlinx.android.synthetic.main.activity_home.*
 import kotlinx.android.synthetic.main.activity_home_content.*
 import kotlinx.android.synthetic.main.home_drawer.*
+import kotlinx.coroutines.*
 import org.greenrobot.eventbus.EventBus
 import org.greenrobot.eventbus.Subscribe
 
@@ -58,7 +59,7 @@ class HomeActivity:BaseActivity(R.layout.activity_home) {
         }
         llc_contact.setOnClickListener { contact() }
         llc_update.setOnClickListener { update() }
-        llc_contact.setOnClickListener {
+        llc_agree.setOnClickListener {
             startActivity(Intent(this,UrlActivity::class.java).apply {
                 putExtra("url",LocalConf.agree)
             })
