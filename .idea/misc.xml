@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ad_tag.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_0c762d_6dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_162d30_20dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_33d49d_36de9d_16dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_4d0c762d_6dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_8ff2db_28b454.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_8ff2db_28b454_25dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_fff930d_fce06a_16dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/bg_ffffff_8dp.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/clean_top_bg.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/home_eam_color_selector.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/home_ram_color_selector.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/home_rv_bg.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/home_scan_bg_selector.xml" value="0.29384615384615387" />
+        <entry key="app/src/main/res/drawable/launch_progress.xml" value="0.2601851851851852" />
+        <entry key="app/src/main/res/layout/activity_battery_saver.xml" value="0.19157608695652173" />
+        <entry key="app/src/main/res/layout/activity_boost.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_boost_clean.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/activity_clean.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_clean_gou.xml" value="0.19157608695652173" />
+        <entry key="app/src/main/res/layout/activity_clean_success.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_cleaning.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home_content.xml" value="0.21331521739130435" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_url.xml" value="0.21331521739130435" />
+        <entry key="app/src/main/res/layout/ad_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/ad_home_.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/ad_result.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/home_drawer.xml" value="0.21331521739130435" />
+        <entry key="app/src/main/res/layout/item_clean.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/item_home_func.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/layout_notifi.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/layout_notification.xml" value="0.2006340579710145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
